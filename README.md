@@ -1,7 +1,7 @@
 # eggjs+jwt+restful
 
 经过多次摸索尝试，参照eggjs官网教程，终于搭建起了node后端，结合mysql和jwt实现人员登录后权限验证，配合restful风格。
-该项目配合前后端分离项目使用效果更佳。前端地址：
+该项目配合前后端分离项目使用效果更佳。前端地址：https://github.com/Mercilessyears/vue-node-jwt-quasar
 
 
 ## 快速开始
